@@ -1,0 +1,9 @@
+{
+  "mssql": {
+    "host": "",
+    "port": 1433,
+    "user": "",
+    "password": "",
+    "database": ""
+  }
+}
